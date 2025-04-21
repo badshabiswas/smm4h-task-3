@@ -1,0 +1,9 @@
+torch
+transformers
+datasets
+scikit-learn
+peft
+trl
+accelerate
+tqdm
+pandas
