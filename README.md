@@ -1,6 +1,5 @@
 # Mason NLP-GRP at #SMM4H-HeaRD 2025 Task 3
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This repository describes the Mason NLP-GRP team's submission to the SMM4H-2025 Task 3, which focuses on detecting whether a tweet indicates the presence of a family member with dementia.
 
